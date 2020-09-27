@@ -9,10 +9,7 @@
 
 ***
 ## Group Info
-
-Group number: 10
-
-Project Choice: Parking Lot Management System
+Project: Parking Lot Management System
 
 Members: Isaac Bordfeld, Karley Conroy, Shiv Patel, Saiesha Sharma
 
